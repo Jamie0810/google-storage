@@ -1,0 +1,23 @@
+google_storage:
+  project_id: silkrode-golang
+  storage_key_file: ./storage_key.json
+  bucket_name: kbc-storage
+  url: https://storage.cloud.google.com/
+
+# set is_authorized to true to get image list & remove images
+is_authorized: true
+
+database:
+  driver: mysql
+  host: 10.1.1.111
+  port: 3307
+  user: test
+  password: test
+  dbname: kbc
+  instance_name: ''
+
+log:
+  level: INFO
+
+server:
+  port: 8090

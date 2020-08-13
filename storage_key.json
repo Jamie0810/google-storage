@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "silkrode-golang",
+  "private_key_id": "3d0fb520390877ece60c98af7195e24450423c4f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCbFVz8PNxWo243\ntmJl2PLblkpLXDy2YMtFajtgRJV24OTs6PhiKRlkm/KRxrCXhovxl/yH74S/tXmJ\nV08zli4yMM7Limrf+in01+awHAE392exj1qRh+4TDc/kRZ0NpwHE0k+1oIsFwlTv\nRUEqysGQ6qE32JUlIQLhKvebxUobU0rKoVcHxjy0GXSk6vOpK1m2HYo1nDeJS5js\njYHPTxhkAVlY3vX9A4q9veDzA1hMaizHpSVBlL52L0kXuFP9c4q/hgR/Q6iLdMKQ\n3K9TDR/wcefIMOpYseruBE010JtTZcF5umGo78O/3fH1kwI0PXE7kLl6pqN6SciB\nlISk9jOHAgMBAAECggEAAsGJxNRyuKTFi/6VF75Cl/MUdZZkCycD4G3s3t8ZJjha\nQ844FnZ92bMzx7IXkqR0zuGmk+aGc2m5iTP2Al1Zi3whO1jFtslD/vKUn5iVJPYj\n75yJPYDZku5x6AVHWeYX5UmKL8N0n7DpFX946FZww4SH7O16aQ3XIUKZjTkfrLCd\nJ7vHp6x2LVB8+nxVZDFtQIZ9xj3l5i2gLPHc/hCRE4RdwnJgB/bMZJWdcWCqUid6\nRez29keW1MPdKtWJfHsb96LvW+4tlPjwN67ZMmAzs+K+j+lPC/alU1O8jIaQpv5M\nuYkb1ZzJSJVn5hHsxw4xSmFkasClbS069ICYJymkkQKBgQDRdWWwLCNlE868jcor\nu72FxIdfKfzHZEHFvtIo1GE+J0nOd3Hc7/TXfsT05W+FjPve+gDGTbHslYDPsGjw\nAugJOrObY7g1eKtV09bULgKpY3B8+ungH0OREhmoRCouhB21PLM0vchhZzqfLNMi\nvcUv64qT7BPM90cl5ZN/aNH2awKBgQC9ivP7rSiES72KKCGKaai2D4lagj5Ay+bf\nEbwYFIYABnlsXmR+YUfFZ9q6vrd/ezBfFEs6VofejGqken+H4FSaRCW3wRYuPcEa\niobC/XYmhboaD/rsWB/2qNW3fxs/xfykrElBa/hLn/8Yk+NxDTCFxBPkdnRRpEa+\n8yVdNeKmVQKBgGp1vu+iH4NaY/OWJbHAxH1e/Gc0EhTOMlftuyeheqN6mJrmPutK\n0ylMd5L5ootAsywL6aThDJPxEP1+7nc/Iuy991f9gT08TelbuI8zq4qozh3X8lNF\n0LPFfWD29HGcGPVrGrKt21EWhMcuo0m/JqBKma7BiPbeoDz0yNkzT7RtAoGANMpX\nq9gNedNShgEpXlCRQavQGJo/1nIz6hsZZSeKLsWe2fTsTlqvz6ZeQDbQCrx3u3N+\nhFAHZY98QDUyAdkUFyc1zhkEIXrnponAgNxxJMeIDqw2uc7NkDhz1bicEUYGWKL3\ngDYfIIj+Vo0SArGmuwric3YebYKwhYxY8r4IU0UCgYBH9UD4D1E9IFDrlRffmZXi\nSqIFLZ+dUNlQzwAvM0A8Qjxl54OkX6qIvPUTWUgZ2pE91mxKFLbfqe7lt49ZuZp1\n1Ilyuk/SxebAITW5VcC0wi10KhYSzdC0JZW3AEG/fnQGdgvX3rnY8RCX6OCo3ARL\ncQxqDzcQFH8xKGiRyy2FqA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "buckets-sa@silkrode-golang.iam.gserviceaccount.com",
+  "client_id": "111486595845132419093",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/buckets-sa%40silkrode-golang.iam.gserviceaccount.com"
+}
